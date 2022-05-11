@@ -5,6 +5,8 @@ A simple Python script used to convert plain text to leet speak and vise versa
 ## NOTE: WIP
 
 This project is still a ___work-in-progress___
+NOT IMPLEMENTED: 
+        Being able to convert files -> this will be comming soon
 
 ## Requirements
 
@@ -38,4 +40,4 @@ COMMON ISSUES:
 
 ## Example
 
-[img]
+![image](https://raw.githubusercontent.com/cyb3rtea/leet_speak_converter/main/imgs/leet_speek.png)
