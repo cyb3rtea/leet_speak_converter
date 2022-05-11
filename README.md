@@ -6,7 +6,7 @@ A simple Python script used to convert plain text to leet speak and vise versa
 
 This project is still a ___work-in-progress___  
 NOT IMPLEMENTED:  
-        Being able to convert files -> this will be comming soon
+- Being able to convert files -> this will be comming soon
 
 ## Requirements
 
